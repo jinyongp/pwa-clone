@@ -1,0 +1,23 @@
+{
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["app.webmanifest"],
+      "url": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/web-manifest.json"
+    }
+  ],
+  "cSpell.words": [
+    "Autoprefix",
+    "twind"
+  ],
+  "editor.suggest.showStatusBar": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
